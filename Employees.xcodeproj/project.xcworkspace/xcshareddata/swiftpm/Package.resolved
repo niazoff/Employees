@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "sfsafesymbols",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SFSafeSymbols/SFSafeSymbols",
+      "state" : {
+        "revision" : "c8c33d947d8a1c883aa19fd24e14fd738b06e369",
+        "version" : "3.3.2"
+      }
+    },
+    {
+      "identity" : "swiftnetworking",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/niazoff/SwiftNetworking",
+      "state" : {
+        "branch" : "master",
+        "revision" : "b00a06cd1f574b208fc05eca13eb92923761ac0d"
+      }
+    }
+  ],
+  "version" : 2
+}
